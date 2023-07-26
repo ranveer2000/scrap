@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"name": "scrap",
+			"path": "."
+		},
+		{
+			"path": "../../../Desktop/scraping/scrape"
+		}
+	],
+	"settings": {}
+}
